@@ -38,12 +38,10 @@ Set your own pricing structures and profit from every AI voice call. Our platfor
 Visit [Voicerr.ai](https://voicerr.ai) to explore how our white-label solutions can transform your agency's offerings and drive growth.
 
 ---
-<!-- Embedded Autoplay Video -->
-<div align="center">
-  <video width="640" height="360" autoplay muted loop playsinline>
-    <source src="https://voicerr.fra1.cdn.digitaloceanspaces.com/f1.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
+
+
+https://github.com/user-attachments/assets/e3ab0b90-2b66-4b34-83f2-ece5a5de2873
+
+
 
 By partnering with Voicerr.ai, you're choosing a platform designed to elevate your agency's capabilities, increase revenue, and deliver exceptional AI voice experiences to your clients. Discover the difference today and lead the future of AI-powered voice solutions.
