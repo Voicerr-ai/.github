@@ -43,7 +43,7 @@ Check out [Setting up whitelabel Voice Agency with Voicerr](https://voicerr.ai/b
 
 ### Want a new feature to be added to voicerr? 🚀
 
-We welcome new feature requests from our users. You can [submit a feature request](https://github.com/Voicerr-ai/.github/discussions/new?category=ideas) and it can be anything you wish to see on our platform.
+We welcome new feature requests from our users. You can also [submit a feature request](https://github.com/Voicerr-ai/.github/discussions/new?category=ideas) and it could be anything you wish to see on our platform.
 
 ---
 
