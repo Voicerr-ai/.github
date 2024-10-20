@@ -40,7 +40,7 @@ Take charge of your pricing structures and enjoy the profits from every **AI voi
 Ready to take the next step? Check out our guide on [Setting Up a White-Label Voice Agency with Voicerr](https://voicerr.ai/blog/using-voicerr-to-setup-your-own-ai-voice-agency-in-5-minutes) and have a fully functional account for your clients up and running in just 5 minutes. We’re excited to see what you create!
 
 ## Have a Feature in Mind? We’re Listening! 🚀
-Your feedback matters to us. If there’s a feature you’d love to see on Voicerr.ai, please [submit a feature request](https://github.com/Voicerr-ai/.github/discussions/new?category=ideas). We’re always eager to hear your ideas and make our platform even better for you.
+Your feedback matters to us. If there’s a feature you’d love to see on Voicerr.ai, please [submit a feature request](https://github.com/Voicerr-ai/Voicerr.ai-Discussions/discussions/new/choose). We’re always eager to hear your ideas and make our platform even better for you.
 
 ---
 
