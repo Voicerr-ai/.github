@@ -2,7 +2,7 @@
 
 ### What is voicerr?
 
-**Voicerr.ai** empowers agencies to offer AI-powered voice assistants under their own brand. With VAPI AI, Our platform provides full white-label capabilities, allowing you to deliver customized voice solutions without the hassle of managing complex infrastructure.
+**[Voicerr.ai](https://voicerr.ai)** empowers agencies to offer AI-powered voice assistants under their own brand. With VAPI AI, Our platform provides full white-label capabilities, allowing you to deliver customized voice solutions without the hassle of managing complex infrastructure.
 
 How a white label AI Caller made with voicerr.ai looks like:
 
@@ -39,7 +39,11 @@ Set your own pricing structures and profit from every AI voice call. Our platfor
 
 ### Get Started Today 🚀
 
-Visit [Voicerr.ai](https://voicerr.ai) to explore how our white-label solutions can transform your agency's offerings and drive growth.
+Check out [Setting up whitelabel Voice Agency with Voicerr]([https://voicerr.ai](https://voicerr.ai/blog/using-voicerr-to-setup-your-own-ai-voice-agency-in-5-minutes)) where you can basically have a fully functional account for your client ready in just 5 minutes.
+
+### Want a new feature to be added to voicerr? 🚀
+
+We welcome new feature requests from our users. You can [submit a feature request]([https://voicerr.ai](https://github.com/Voicerr-ai/.github/discussions/new?category=ideas)) and it can be anything you wish to see on our platform.
 
 ---
 
