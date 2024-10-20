@@ -1,4 +1,4 @@
-# Start Your AI Calling Agency with Voicerr.ai: White-Label AI Calling Solutions
+# Start Your AI Calling Agency with Voicerr.ai: White-Label AI Calling bots
 
 ## What is voicerr?
 
