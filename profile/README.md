@@ -39,7 +39,7 @@ Set your own pricing structures and profit from every AI voice call. Our platfor
 
 ### Get Started Today 🚀
 
-Check out [Setting up whitelabel Voice Agency with Voicerr]([https://voicerr.ai](https://voicerr.ai/)) where you can basically have a fully functional account for your client ready in just 5 minutes.
+Check out [Setting up whitelabel Voice Agency with Voicerr]([https://voicerr.ai](https://voicerr.ai)) where you can basically have a fully functional account for your client ready in just 5 minutes.
 
 ### Want a new feature to be added to voicerr? 🚀
 
