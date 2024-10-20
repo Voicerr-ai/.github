@@ -47,3 +47,6 @@ Your feedback matters to us. If there’s a feature you’d love to see on Voice
 ---
 
 By partnering with **Voicerr.ai**, you’re choosing a friendly and reliable platform designed to help you **start your AI calling agency**, elevate your agency’s capabilities, increase your revenue, and deliver exceptional **AI calling experiences** to your clients. Let’s work together to lead the future of **whitelabel AI calling solutions**!
+
+---
+*Last updated: October 20, 2024*
