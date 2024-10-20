@@ -39,11 +39,11 @@ Set your own pricing structures and profit from every AI voice call. Our platfor
 
 ### Get Started Today 🚀
 
-Check out [Setting up whitelabel Voice Agency with Voicerr]([https://voicerr.ai](https://voicerr.ai)) where you can basically have a fully functional account for your client ready in just 5 minutes.
+Check out [Setting up whitelabel Voice Agency with Voicerr](https://voicerr.ai/blog/using-voicerr-to-setup-your-own-ai-voice-agency-in-5-minutes) where you can basically have a fully functional account for your client ready in just 5 minutes.
 
 ### Want a new feature to be added to voicerr? 🚀
 
-We welcome new feature requests from our users. You can [submit a feature request]([https://voicerr.ai](https://github.com/Voicerr-ai/.github/discussions/new?category=ideas)) and it can be anything you wish to see on our platform.
+We welcome new feature requests from our users. You can [submit a feature request](https://github.com/Voicerr-ai/.github/discussions/new?category=ideas) and it can be anything you wish to see on our platform.
 
 ---
 
