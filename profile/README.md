@@ -13,8 +13,11 @@ https://github.com/user-attachments/assets/6230ba65-4953-401b-85c5-a3faad06040f
 ### Your Complete Whitelabel AI Calling Solution
 We believe in empowering your agency’s brand. Present **proprietary AI voice bot assistants** that seamlessly integrate into your services, making your brand the star of the show.
 
+### Use your own custom domain
+**Use your own .com domain** or any other domain for your whitelabel website where your clients will login to access their voice metrics and other info.
+
 ### Easy-to-Use Client Management Tools
-Managing multiple clients shouldn’t be a hassle. Our intuitive dashboard lets you effortlessly oversee client accounts and gain valuable insights into **AI call interactions**.
+Managing multiple clients shouldn’t be a hassle. You can **add upto 100 clients for free**. Our intuitive dashboard lets you effortlessly oversee client accounts and gain valuable insights into **AI call interactions**.
 
 ### Seamless VAPI AI Integration
 Customize your **AI call bots** to meet each client's unique needs by setting up custom agents according to your client needs. Tailor voice assistants to deliver personalized and effective call experiences.
