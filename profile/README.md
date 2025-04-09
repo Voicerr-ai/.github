@@ -16,7 +16,7 @@ We believe in empowering your agency’s brand. Present **proprietary AI voice b
 ### Use your own custom domain
 **Use your own .com domain** or any other domain for your whitelabel website where your clients will login to access their voice metrics and other info.
 
-### An AI Agent dashboard crafted with love
+### An AI Agent editable dashboard crafted with love
 This product is not just made by developers but also well thought by experienced designers for giving end users the best UI and UX. We know that you will love using it!
 ![525shots_so](https://github.com/user-attachments/assets/51a1626a-dd2f-4762-82e2-a3a5de23976b)
 
