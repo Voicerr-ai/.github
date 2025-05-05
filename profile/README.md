@@ -53,7 +53,7 @@ Whether you’re just starting out or expanding rapidly, our platform grows with
 
 ### Delight Your Clients
 Deliver outstanding **AI call experiences** that keep your clients engaged and coming back for more, all backed by cutting-edge technology and personalized service.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dXHdXI555eY?si=RDR0kdpdgW71Q0xS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/dXHdXI555eY/maxresdefault.jpg)](https://youtu.be/dXHdXI555eY)
 ## Maximize Your Profitability 💰
 Take charge of your pricing structures and enjoy the profits from every **AI call**. Voicerr.ai gives you the flexibility to set profit margins that align perfectly with your business model.
 
