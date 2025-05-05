@@ -6,7 +6,9 @@
 
 How a white label AI Caller made with voicerr.ai looks like:
 
-https://github.com/user-attachments/assets/6230ba65-4953-401b-85c5-a3faad06040f
+
+https://github.com/user-attachments/assets/11f33f33-f3c3-404d-890d-50d2ebf7a3f2
+
 
 ## Why Choose Voicerr.ai?
 
