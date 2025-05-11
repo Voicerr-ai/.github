@@ -27,6 +27,7 @@ This product is not just made by developers but also well thought by experienced
 Managing multiple clients shouldn’t be a hassle. You can **add upto 100 clients for free**. Our intuitive dashboard lets you effortlessly oversee client accounts and gain valuable insights into **AI call interactions**.
 
 ### Voicerr VAPI Workflow Templates - More than just a regular whitelabel
+With Voicerr's custom workflows you can easily connect any CRM like Zoho, hubspot or GHL easily with VAPI or any googl product like google calendar, or sheets etc. Its super easy to setup workflows with workflow templates that lets you connect your apps easily without building the workflow itself.
 [![Watch the video](https://img.youtube.com/vi/dXHdXI555eY/maxresdefault.jpg)](https://youtu.be/dXHdXI555eY)
 
 ### Seamless VAPI AI Integration
@@ -71,4 +72,4 @@ Your feedback matters to us. If there’s a feature you’d love to see on Voice
 By partnering with **Voicerr.ai**, you’re choosing a friendly and reliable platform designed to help you **start your AI calling agency**, elevate your agency’s capabilities, increase your revenue, and deliver exceptional **AI calling experiences** to your clients. Let’s work together to lead the future of **whitelabel AI calling solutions**!
 
 ---
-*Last updated: May59, 2025*
+*Last updated: May 11, 2025*
